@@ -28,6 +28,12 @@ heroku update
 
 Once installed, we'll be able to run the necessary commands to deploy our app.
 
+## Signing Up for a Heroku Account
+
+Take this opportunity to head to [Heroku](https://signup.heroku.com/login) and sign up for an account. It's free!
+
+We'll need this later!
+
 ## Initializing A Heroku App
 
 In your project folder type in the following command:
