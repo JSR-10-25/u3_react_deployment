@@ -65,3 +65,4 @@ In this walkthrough, we successfully installed and deployed our React app to Her
 ## Resources
 
 - [Heroku Docs](https://devcenter.heroku.com/categories/heroku-architecture)
+- [Another Way](https://blog.heroku.com/deploying-react-with-zero-configuration)
